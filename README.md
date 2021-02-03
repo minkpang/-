@@ -7,7 +7,7 @@
 # 사용 스택
   Python ( Socket, Matplotlib )  
   Arduino ( C language ) - [Uno board, DHT-22(humidity, temperarture), SDS011(finedust)]  
-  MongoDB ( Compass )  
+  MongoDB
   AWS EC2  
   
 # 결과물 스크린샷
